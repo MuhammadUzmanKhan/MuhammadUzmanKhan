@@ -2,7 +2,7 @@
 
 I'm a Fullstack Web Developer from Lahore, Pakistan. 
 
-💻 Software Engineer at Phaedra Solutions — *June 2022 to Present*  
+💻 Software Engineer at Phaedra Solutions — *June 2021 to Present*  
 🎓 BS(CE) from FAST NU, Lahore 
 💻 Fullstack Developer (Freelance) — *2020 to 2023*  
 🧭 Got first paid project — *Aug 2020*  
