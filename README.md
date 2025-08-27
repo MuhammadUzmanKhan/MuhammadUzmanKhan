@@ -2,8 +2,12 @@
 
 I'm a Fullstack Web Developer from Lahore, Pakistan with over 8+ years of professional experience building scalable web applications and delivering end-to-end software solutions.
 
-💻 Principal Software Engineer at Chainfore — 2025 to Present  
-💻 Senior Software Engineer at Phaedra Solutions — 2021 to 2025  
+💻 Principal Software Engineer at Chainfore — 2025 to Present 
+💻 Senior Software Engineer at Phaedra Solutions — 2021 to 2023  
+💻 Software Engineer at Phaedra Solutions — 2023 to 2025  
+💻 Software Engineer at Exper Labs -2019 to 2021
+💻 Associate Software Engineer at Exper Labs -2017 to 2019
+
 🎓 BS(CE) from FAST-NU, Lahore  
 💻 Fullstack Developer (Freelance) — 2015 to 2021  
 🧭 First paid project — Aug 2015  
