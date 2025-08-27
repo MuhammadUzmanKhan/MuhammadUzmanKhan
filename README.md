@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-I'm a Fullstack Web Developer from Lahore, Pakistan. 
+I'm a Fullstack Web Developer from Lahore, Pakistan with over 8+ years of professional experience building scalable web applications and delivering end-to-end software solutions.
 
-💻 Software Engineer at Phaedra Solutions — *June 2021 to Present*  
-🎓 BS(CE) from FAST NU, Lahore 
-💻 Fullstack Developer (Freelance) — *2020 to 2023*  
-🧭 Got first paid project — *Aug 2020*  
-🔭 I’m currently working in
+💻 Principal Software Engineer at Chainfore — 2021 to Present  
+💻 Senior Software Engineer at Phaedra Solutions — 2017 to 2021  
+🎓 BS(CE) from FAST-NU, Lahore  
+💻 Fullstack Developer (Freelance) — 2015 to 2021  
+🧭 First paid project — Aug 2015  
+🔭 Currently focused on AI-powered applications, scalable SaaS platforms, and enterprise-grade solutions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="aws" width="40" height="40"/> 
