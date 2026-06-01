@@ -36,7 +36,7 @@ I'm a Fullstack Web Developer from Lahore, Pakistan with over 8+ years of profes
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" title="webpack" width="40" height="40"/>
    </p>
    <p>
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafashykh&layout=compact&hide=html" title="mustafashykh" /></p>
+</p>
 
 
 📫 How to reach me: **muzmankh@gmail.com** 
