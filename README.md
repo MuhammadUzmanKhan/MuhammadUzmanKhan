@@ -39,4 +39,3 @@ I'm a Fullstack Web Developer from Lahore, Pakistan with over 8+ years of profes
 </p>
 
 
-📫 How to reach me: **muzmankh@gmail.com** 
