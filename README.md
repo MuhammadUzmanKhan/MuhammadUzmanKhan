@@ -32,7 +32,7 @@ I'm a Full Stack and AI/LLM Engineer from Lahore, Pakistan with 9+ years of prof
 AI agents and LLM orchestration · RAG and vector search · Microservices and event-driven systems · Edge computing · Multi-tenant SaaS · Cloud and DevOps
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="aws" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" title="aws" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" title="azure" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" title="gcp" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" title="cloudflare" width="40" height="40"/>
@@ -83,4 +83,4 @@ AI agents and LLM orchestration · RAG and vector search · Microservices and ev
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" title="gulp" width="40" height="40"/>
 </p>
 
-📫 How to reach me: **muzmankh@gmail.com** | [LinkedIn](https://www.linkedin.com/in/muhammad-uzman-khan-77a049382/)
+📫 How to reach me: **muzmankh@gmail.com** 
