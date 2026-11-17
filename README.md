@@ -1,35 +1,20 @@
 ### Hi there 👋
 
-I'm a Full Stack and AI/LLM Engineer from Lahore, Pakistan with 9+ years of professional experience building scalable web applications, multi-agent AI platforms and enterprise-grade SaaS products, from architecture to production.
-
-**💼 Experience**
+I'm a Full Stack and AI/LLM Engineer from Lahore, Pakistan with 9+ years of professional experience building scalable web applications, AI-powered platforms and end-to-end software solutions.
 
 💻 Senior AI & LLM Engineer at elunic AG | Dec 2025 to Present  
 💻 Principal Software Engineer at 360 solutions.dev | May 2025 to Nov 2025  
 💻 Senior Software Engineer at Phaedra Solutions | 2021 to 2025  
 💻 Software Engineer at Exper Labs | 2019 to 2020  
 💻 Associate Software Engineer at Exper Labs | 2017 to 2019  
-💻 Fullstack Developer (Freelance) | 2015 to 2021  
 
 🎓 BS Computer Science from FAST-NUCES, Lahore  
+💻 Fullstack Developer (Freelance) | 2015 to 2021  
 🧭 First paid project: Aug 2015  
-
-**🔭 What I'm working on**
-
-🤖 **ShopFloorGPT**: a multi-agent AI knowledge platform with LangGraph orchestration, hierarchical agents, Weaviate vector search and per-agent LLM selection (OpenAI, Gemini, Claude, OpenRouter)  
-🛡️ **Stackduke**: an edge security and spend-control gateway for AI agents on Cloudflare Workers, with agent identity, budget locks, MCP tool permissions and a tamper-evident audit trail, all with no added latency  
-
-**🚀 Highlights**
-
-📦 Delivered 25+ production applications serving 50,000+ users with 99.9% uptime  
-⚡ 25 to 60% performance gains and 25 to 30% cloud cost savings across enterprise projects  
-🧠 Built RAG pipelines, document intelligence and AI automation used by 50+ enterprise clients  
-🌱 Built Ducky, a multi-tenant carbon accounting and ESG reporting platform (GHG Protocol, ESRS)  
-👥 Mentored 15+ engineers with a 95% team retention rate  
-
-**🧰 Focus areas**
-
-AI agents and LLM orchestration · RAG and vector search · Microservices and event-driven systems · Edge computing · Multi-tenant SaaS · Cloud and DevOps
+🤖 Building ShopFloorGPT, a multi-agent AI knowledge platform (LangGraph, Weaviate, multi-LLM)  
+🛡️ Building Stackduke, a security and spend-control gateway for AI agents on Cloudflare Workers  
+📦 Delivered 25+ production apps serving 50,000+ users with 99.9% uptime  
+🔭 Currently focused on AI agents, LLM orchestration, RAG, scalable SaaS platforms and enterprise-grade solutions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" title="aws" width="40" height="40"/>
@@ -82,5 +67,7 @@ AI agents and LLM orchestration · RAG and vector search · Microservices and ev
   <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" title="babel" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" title="gulp" width="40" height="40"/>
 </p>
+   <p>
+</p>
 
-📫 How to reach me: **muzmankh@gmail.com** 
+📫 How to reach me: **muzmankh@gmail.com**
